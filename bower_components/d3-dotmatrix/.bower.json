@@ -1,0 +1,37 @@
+{
+  "name": "d3-dotmatrix",
+  "version": "1.0.0",
+  "homepage": "https://github.com/arpitnarechania/d3-dotmatrix",
+  "authors": [
+    "Arpit Narechania <arpitnarechania@gmail.com>"
+  ],
+  "description": "Open Source JavaScript Library to render Dot Matrix Charts using D3.js",
+  "main": "",
+  "keywords": [
+    "dotmatrix",
+    "dot-matrix",
+    "d3",
+    "d3.js",
+    "visualization",
+    "charts",
+    "open-source"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0",
+    "commit": "17e70acf4010b229db13ff0308b694d7f6f6fd4f"
+  },
+  "_source": "https://github.com/arpitnarechania/d3-dotmatrix.git",
+  "_target": "^1.0.0",
+  "_originalSource": "d3-dotmatrix",
+  "_direct": true
+}
